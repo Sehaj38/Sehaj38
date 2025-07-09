@@ -12,7 +12,7 @@
 - AI/ML
 
 ## 📊 GitHub Stats
-![Sehaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kavvz20&show_icons=true&theme=tokyonight)
+![Sehaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sehaj38&show_icons=true&theme=tokyonight)
 
 
 📫 Reach me at: kaursehajneet06@gmail.com  
