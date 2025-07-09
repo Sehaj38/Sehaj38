@@ -18,3 +18,6 @@
 
 📫 Reach me at: kaursehajneet06@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/sehajneet-kaur-788412330/)
+
+## 🌱 Fun Fact
+I collect random knowledge like browser tabs open, slightly chaotic, and always interesting.
