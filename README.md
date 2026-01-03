@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Sehaj
 
-🎯 Focused on **Data Structures & Algorithms*. I learn by building, breaking, and fixing things.
+🎯 Focused on **Data Structures & Algorithms**. I learn by building, breaking, and fixing things.
 
 ## 🔗 Skills
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
