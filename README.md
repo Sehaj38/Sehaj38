@@ -20,4 +20,4 @@
 🔗 LinkedIn: https://www.linkedin.com/in/sehajneet-kaur-788412330/
 
 ## 🌱 Fun Fact
-I collect random knowledge the way browsers collect tabs — chaotic, excessive, but occasionally useful.
+I love mountains.
